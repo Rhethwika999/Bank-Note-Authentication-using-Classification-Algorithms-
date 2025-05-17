@@ -1,11 +1,11 @@
 # Bank-Note-Authentication-using-Classification-Algorithms- 💸
 
 
-### Aim :
+### Aim 🎯
 
 Develop and evaluate supervised‑learning models that accurately distinguish genuine banknotes from forgeries based on statistical features extracted with a wavelet transform.
 
-### Objective 🎯
+### Objective 🔍
 
 1. **Exploratory Data Analysis (EDA)** – understand feature distributions, detect outliers, and inspect class balance.
 2. **Model building & evaluation** – train multiple classification algorithms, tune hyper‑parameters, and compare performance using cross‑validation and test‑set metrics (accuracy, precision‑recall, ROC‑AUC).
